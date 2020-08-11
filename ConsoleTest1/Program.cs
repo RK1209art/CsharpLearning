@@ -27,6 +27,8 @@ namespace ConsoleTest1
 
             ConsTest7 ct = new ConsTest7();
            Console.WriteLine(ct.NaturalNo());
+            ConsTest8 ct8 = new ConsTest8();
+            Console.WriteLine(ct8.CubeNo());
             Console.ReadKey();
         }
 
