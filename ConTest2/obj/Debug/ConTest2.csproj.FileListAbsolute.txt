@@ -1,0 +1,7 @@
+C:\Users\kiit\source\repos\ConTest2\ConTest2\bin\Debug\ConTest2.exe.config
+C:\Users\kiit\source\repos\ConTest2\ConTest2\bin\Debug\ConTest2.exe
+C:\Users\kiit\source\repos\ConTest2\ConTest2\bin\Debug\ConTest2.pdb
+C:\Users\kiit\source\repos\ConTest2\ConTest2\obj\Debug\ConTest2.csprojAssemblyReference.cache
+C:\Users\kiit\source\repos\ConTest2\ConTest2\obj\Debug\ConTest2.csproj.CoreCompileInputs.cache
+C:\Users\kiit\source\repos\ConTest2\ConTest2\obj\Debug\ConTest2.exe
+C:\Users\kiit\source\repos\ConTest2\ConTest2\obj\Debug\ConTest2.pdb
