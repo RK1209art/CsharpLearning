@@ -1,0 +1,7 @@
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\bin\Debug\ConsTest4.exe.config
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\bin\Debug\ConsTest4.exe
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\bin\Debug\ConsTest4.pdb
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\obj\Debug\ConsTest4.csprojAssemblyReference.cache
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\obj\Debug\ConsTest4.csproj.CoreCompileInputs.cache
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\obj\Debug\ConsTest4.exe
+C:\Users\kiit\source\repos\ConsTest4\ConsTest4\obj\Debug\ConsTest4.pdb
