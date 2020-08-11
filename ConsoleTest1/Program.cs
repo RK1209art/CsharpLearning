@@ -23,7 +23,11 @@ namespace ConsoleTest1
             {
                 Console.WriteLine(num2 + "is the Largest Number");
             }
-            Console.ReadLine();
+            //Console.ReadLine();
+
+            ConsTest7 ct = new ConsTest7();
+           Console.WriteLine(ct.NaturalNo());
+            Console.ReadKey();
         }
 
     }

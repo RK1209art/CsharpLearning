@@ -9,12 +9,12 @@ namespace ConsoleTest1
     public class ConsTest7
     {
         //WAP in C to display n terms of natural number and their sum.
-        public int NaturalNo(int n)
+        public int NaturalNo()
         {
-            int sum = 0;
+            int n,sum = 0;
             Console.WriteLine("Enter the Number.");
             n = Convert.ToInt32(Console.ReadLine());
-            for (int i=1; i<=n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine(i);
                 sum = sum + i;
