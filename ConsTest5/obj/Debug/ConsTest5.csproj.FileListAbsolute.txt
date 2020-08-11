@@ -1,0 +1,7 @@
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\bin\Debug\ConsTest5.exe.config
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\bin\Debug\ConsTest5.exe
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\bin\Debug\ConsTest5.pdb
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\obj\Debug\ConsTest5.csprojAssemblyReference.cache
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\obj\Debug\ConsTest5.csproj.CoreCompileInputs.cache
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\obj\Debug\ConsTest5.exe
+C:\Users\kiit\source\repos\ConsTest5\ConsTest5\obj\Debug\ConsTest5.pdb
