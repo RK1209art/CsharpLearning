@@ -26,9 +26,13 @@ namespace ConsoleTest1
             //Console.ReadLine();
 
             ConsTest7 ct = new ConsTest7();
-           Console.WriteLine(ct.NaturalNo());
+            Console.WriteLine(ct.NaturalNo());
+           
             ConsTest8 ct8 = new ConsTest8();
             Console.WriteLine(ct8.CubeNo());
+
+            ConsTest9 ct9 = new ConsTest9();
+            Console.WriteLine(ct9.RightAngle());
             Console.ReadKey();
         }
 

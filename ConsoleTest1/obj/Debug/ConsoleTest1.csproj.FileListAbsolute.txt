@@ -5,10 +5,3 @@ C:\Users\kiit\source\repos\ConsoleTest1\ConsoleTest1\obj\Debug\ConsoleTest1.cspr
 C:\Users\kiit\source\repos\ConsoleTest1\ConsoleTest1\obj\Debug\ConsoleTest1.csproj.CoreCompileInputs.cache
 C:\Users\kiit\source\repos\ConsoleTest1\ConsoleTest1\obj\Debug\ConsoleTest1.exe
 C:\Users\kiit\source\repos\ConsoleTest1\ConsoleTest1\obj\Debug\ConsoleTest1.pdb
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\bin\Debug\ConsoleTest1.exe.config
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\bin\Debug\ConsoleTest1.exe
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\bin\Debug\ConsoleTest1.pdb
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\obj\Debug\ConsoleTest1.csprojAssemblyReference.cache
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\obj\Debug\ConsoleTest1.csproj.CoreCompileInputs.cache
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\obj\Debug\ConsoleTest1.exe
-C:\Users\kiit\Source\Repos\CsharpLearning\ConsoleTest1\obj\Debug\ConsoleTest1.pdb

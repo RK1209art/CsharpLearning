@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ConsTest7.cs" />
     <Compile Include="ConsTest8.cs" />
+    <Compile Include="ConsTest9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
