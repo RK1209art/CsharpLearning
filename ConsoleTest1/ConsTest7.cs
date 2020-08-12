@@ -12,7 +12,7 @@ namespace ConsoleTest1
         public int NaturalNo()
         {
             int n,sum = 0;
-            Console.WriteLine("Enter Integer Number.");
+            Console.WriteLine("Enter the Number.");
             n = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
